@@ -1,0 +1,14 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "ConnectionStrings": {
+    "SqlConnection": "server=localhost;database=PRN221_Spr24_AS1;user=sa;password=12345"
+  }
+}
+
